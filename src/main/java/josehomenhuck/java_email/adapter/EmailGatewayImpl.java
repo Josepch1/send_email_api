@@ -19,7 +19,7 @@ public class EmailGatewayImpl implements EmailGateway {
         message.setTo(to);
         message.setSubject(subject);
         message.setText(body);
-        message.setFrom("josepedro.homenhuck@gmail.com"); // Alterar conforme necessário
+        message.setFrom("johndoe@email.com"); // Alterar conforme necessário
         mailSender.send(message);
     }
 }
