@@ -6,8 +6,8 @@ Welcome to the Spring Email API project! This project demonstrates how to send e
 
 ### Prerequisites
 
-- Java 17 or higher
-- Maven 3.6.3 or higher
+- Java 23 or higher
+- Maven 3.6.5 or higher
 
 ### Installation
 
@@ -19,12 +19,12 @@ Welcome to the Spring Email API project! This project demonstrates how to send e
 
 2. Build the project:
   ```sh
-  ./mvnw clean install
+  ./mvnw clean package
   ```
 
 3. Run the application:
   ```sh
-  ./mvnw spring-boot:run
+  java -jar target/java_email-0.0.1-SNAPSHOT.jar
   ```
 
 ## 📚 Usage
