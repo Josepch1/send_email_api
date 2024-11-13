@@ -6,8 +6,8 @@ Welcome to the Spring Email API project! This project demonstrates how to send e
 
 ### Prerequisites
 
-- Java 17 or higher
-- Maven 3.6.3 or higher
+- Java 23 or higher
+- Maven 3.6.5 or higher
 
 ### Installation
 
