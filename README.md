@@ -24,7 +24,7 @@ Welcome to the Spring Email API project! This project demonstrates how to send e
 
 3. Run the application:
   ```sh
-  ./mvnw spring-boot:run
+  java -jar target/java-email-0.0.1-SNAPSHOT.jar
   ```
 
 ## 📚 Usage
