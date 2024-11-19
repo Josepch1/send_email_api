@@ -19,7 +19,7 @@ Welcome to the Spring Email API project! This project demonstrates how to send e
 
 2. Build the project:
   ```sh
-  ./mvnw clean install
+  ./mvnw clean package
   ```
 
 3. Run the application:
